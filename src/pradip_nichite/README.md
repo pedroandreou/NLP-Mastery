@@ -44,9 +44,9 @@
 ## GPT-3
 | Title | YT Video | Completed |
 | --------------- | --------------- | --------------- |
-| Learn how to build NLP applications using GPT-3 - Learn to write GPT-3 prompt | [Link](https://www.youtube.com/watch?v=LerLk1WLisU) | :x: |
-| Learn How to integrate GPT-3 Prompt into Python Code | [Link](https://www.youtube.com/watch?v=xE0Urb-vFdY) | :x: |
-| Aspect Based Sentiment Analysis using GPT-3 - Prompt Design) | [Link](https://www.youtube.com/watch?v=CFwbkZsfkas) | :x: |
+| Learn how to build NLP applications using GPT-3 - Learn to write GPT-3 prompt | [Link](https://www.youtube.com/watch?v=LerLk1WLisU) |:ballot_box_with_check: |
+| Learn How to integrate GPT-3 Prompt into Python Code | [Link](https://www.youtube.com/watch?v=xE0Urb-vFdY) | :ballot_box_with_check: |
+| Aspect Based Sentiment Analysis using GPT-3 - Prompt Design) | [Link](https://www.youtube.com/watch?v=CFwbkZsfkas) | :ballot_box_with_check: |
 | GPT-3 Embeddings: Perform Text Similarity, Semantic Search, Classification, and Clustering | [Link](https://www.youtube.com/watch?v=ld3YbhoJz9w) | :x: |
 | How to Fine-tune GPT-3 to Get Better Results and Save Cost | [Link](https://www.youtube.com/watch?v=muxtjezs3BQ) | :x: |
 | Using GPT-3 to Reply Customer Reviews - Streamlit | [Link](https://www.youtube.com/watch?v=Vtx-S8Gtfw8) | :x: |
